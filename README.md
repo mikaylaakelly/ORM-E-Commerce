@@ -38,7 +38,8 @@ To install the necessary items, run the command: npm i
 
 ## Usage
 You will need to be able to use mySQL, use npm i to install all dependencies, npm run seed to seed all of your data, and npm start to start up the server.
-[Walk Through Video](https://drive.google.com/file/d/1wFLRZNpiHMfPJElpgPiw8dTQfL2igl69/view)
+<br>
+<br>[Walk Through Video](https://drive.google.com/file/d/1wFLRZNpiHMfPJElpgPiw8dTQfL2igl69/view)
 
 ## License
     
